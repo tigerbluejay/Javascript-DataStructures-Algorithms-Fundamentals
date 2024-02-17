@@ -14,4 +14,4 @@ function naiveSearch(long, short){
 // count keeps track of the number of times the inner loop
 // ran without breaking (a match)
 
-console.log(naiveSearch("lorie loled", "lol"));
+console.log(naiveSearch("lorie loled", "lol"))
