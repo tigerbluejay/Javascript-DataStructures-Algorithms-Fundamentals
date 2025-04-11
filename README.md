@@ -1,0 +1,3 @@
+# Javascript Data Structures and Algorithms Fundamentals
+
+The Javascript-DataStructures-Algorithms-Fundamentals repository offers a comprehensive collection of fundamental data structures and algorithms implemented in JavaScript, designed to help developers strengthen their core programming and problem-solving skills. Covering essential concepts such as arrays, linked lists, stacks, queues, trees, graphs, and sorting/searching algorithms, the project serves both as a learning tool and a reference for technical interviews or academic study. Its clear structure and practical code examples make it a valuable resource for beginners and intermediate developers aiming to master algorithmic thinking in JavaScript.
